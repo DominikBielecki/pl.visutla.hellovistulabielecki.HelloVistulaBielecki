@@ -7,5 +7,7 @@ public class HelloVistulaBielecki {
         System.out.println("Hello Vistula Bielecki2");
 
         System.out.println("Hello Vistula Bielecki3");
+
+        System.out.println("Hello Vistula Bielecki3");
     }
 }
